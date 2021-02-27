@@ -7,12 +7,12 @@
  ![main](/images/main.png)
  ![3d](/images/3d.png)
 
-## early prototype
+## Early prototype
 ![proto](/images/proto.png)
 
-## version 1
+## Version 1
 ![v1](/images/v1.png)
 
-## completed module
+## Version 2.0.0 completed module
 
 ![complete](/images/complete.png)
