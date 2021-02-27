@@ -1,0 +1,9 @@
+(module Test (layer F.Cu) (tedit 5E6792D1)
+  (fp_text reference REF** (at 0 2.5146) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Test (at -0.0762 -2.0828) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 0.7 1) (drill 0.5 (offset 0.1 0)) (layers *.Cu *.Mask))
+)
