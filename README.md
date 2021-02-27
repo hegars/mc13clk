@@ -17,3 +17,7 @@
 ## Version 2.0.0 completed module
 
 ![complete](/images/complete.png)
+
+## Version 2.0.1 
+
+* Easydrive pins alligined correctly
